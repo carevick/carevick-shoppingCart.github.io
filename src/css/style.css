@@ -156,12 +156,12 @@ main button:hover {
   margin-bottom: 5px;
 }
 
-.btns-final {
+.buttons-final {
   display: flex;
   margin: 1.5rem;
 }
 
-.btn-final {
+.button-final {
   color: #2d4156;
   padding: 0.7rem;
   margin: 0 0.5rem;
@@ -169,13 +169,13 @@ main button:hover {
   flex-basis: 50%;
 }
 
-.btn-final-2 {
+.button-final-2 {
   background-color: #2d4156;
   color: #ffffff;
   border: none;
 }
 
-.btn-final-2:hover {
+.button-final-2:hover {
   background-color: #1d2e38;
   transition: 0.2s ease-in-out;
 }
