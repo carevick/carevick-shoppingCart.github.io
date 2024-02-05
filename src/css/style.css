@@ -217,7 +217,7 @@ button:active {
   p {
     font-size: 0.9rem;
   }
-  .btn-final {
+  .button-final {
     font-size: 0.9rem;
   }
 }
@@ -252,7 +252,7 @@ button:active {
   p {
     font-size: 0.9rem;
   }
-  .btn-final {
+  .button-final {
     font-size: 0.9rem;
   }
 }
@@ -302,11 +302,11 @@ button:active {
   p {
     font-size: 0.5rem;
   }
-  .btn-final {
+  .button-final {
     font-size: 0.6rem;
     padding: 0.5rem;
   }
-  .btns-final {
+  .buttons-final {
     margin: 1rem;
   }
 }
