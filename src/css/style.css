@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #2d4156;
+  background-color: #1e2633;
   color: #ffffff;
   font-family: math;
   margin-right: 4rem;
@@ -38,13 +38,13 @@ main {
   height: 0;
   border-left: 25px solid transparent;
   border-right: 25px solid transparent;
-  border-bottom: 30px solid #e83d44;
+  border-bottom: 30px solid #cc314d;
   margin-right: 2.5rem;
   margin-bottom: -0.7rem;
 }
 
 .cart-items {
-  background-color: #e83d44;
+  background-color: #cc314d;
   box-shadow:
     8px 4px 15px rgba(255, 255, 255, 0.2),
     -15px 15px 15px rgba(0, 0, 0, 0.9);
@@ -67,7 +67,7 @@ nav {
 }
 
 .arrow {
-  border: solid #2d4156;
+  border: solid #1e2633;
   border-width: 0 2px 2px 0;
   display: inline-block;
   padding: 5px;
@@ -93,7 +93,7 @@ ul {
 }
 
 .last-ul-item {
-  border-bottom: 1px solid #2d4156;
+  border-bottom: 1px solid #1e2633;
 }
 
 ul::-webkit-scrollbar {
@@ -106,7 +106,7 @@ nav ul li {
   grid-template-columns: 1fr 2fr;
   grid-template-rows: repeat(3, 1fr);
   align-items: center;
-  border-top: 1px solid #2d4156;
+  border-top: 1px solid #1e2633;
   padding: 0.5rem;
 }
 
@@ -131,7 +131,7 @@ p {
 button {
   font-family: math;
   font-weight: bold;
-  border: 1px solid #2d4156;
+  border: 1px solid #1e2633;
   border-radius: 5px;
   cursor: pointer;
   box-shadow:
@@ -141,14 +141,14 @@ button {
 
 header button:hover {
   border-radius: 5px;
-  outline: 3px ridge #e83d44;
+  outline: 3px ridge #cc314d;
   transition: 0.1s ease-in-out;
 }
 
 main button:hover {
   background-color: #c4cbd1;
   border-radius: 5px;
-  outline: 2px groove #1d2e38;
+  outline: 2px groove #2d4156;
   transition: 0.2s ease-in-out;
 }
 
@@ -162,7 +162,7 @@ main button:hover {
 }
 
 .button-final {
-  color: #2d4156;
+  color: #1e2633;
   padding: 0.7rem;
   margin: 0 0.5rem;
   font-size: 1rem;
@@ -170,13 +170,13 @@ main button:hover {
 }
 
 .button-final-2 {
-  background-color: #2d4156;
+  background-color: #1e2633;
   color: #ffffff;
   border: none;
 }
 
 .button-final-2:hover {
-  background-color: #1d2e38;
+  background-color: #2d4156;
   transition: 0.2s ease-in-out;
 }
 
@@ -313,14 +313,14 @@ button:active {
 
 /* Color Theme Swatches in Hex */
 .Primary-Color-Theme--1-hex {
-  color: #e83d44;
+  color: #cc314d;
 }
 .Primary-Color-Theme--2-hex {
-  color: #2d4156;
+  color: #1e2633;
 }
 .Primary-Color-Theme--3-hex {
   color: #c4cbd1;
 }
 .Primary-Color-Theme--4-hex {
-  color: #1d2e38;
+  color: #1e2633;
 }
