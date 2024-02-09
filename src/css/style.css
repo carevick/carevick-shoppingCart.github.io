@@ -92,7 +92,7 @@ ul {
   scrollbar-width: none; /* for Firefox */
 }
 
-.last-ul-item {
+li:last-child {
   border-bottom: 1px solid #1e2633;
 }
 
@@ -146,9 +146,9 @@ header button:hover {
 }
 
 main button:hover {
-  background-color: #c4cbd1;
+  background-color: #d8e0e6;
   border-radius: 5px;
-  outline: 2px groove #2d4156;
+  outline: 2px groove #1e2633;
   transition: 0.2s ease-in-out;
 }
 
@@ -176,7 +176,7 @@ main button:hover {
 }
 
 .button-final-2:hover {
-  background-color: #2d4156;
+  background-color: #1d2e38;
   transition: 0.2s ease-in-out;
 }
 
@@ -319,5 +319,8 @@ button:active {
   color: #1e2633;
 }
 .Primary-Color-Theme--3-hex {
-  color: #c4cbd1;
+  color: #d8e0e6;
+}
+.Primary-Color-Theme--4-hex {
+  color: #1d2e38;
 }
