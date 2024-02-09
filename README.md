@@ -9,5 +9,5 @@ Customers then have the opportunity to review the product(s) they’ve selected 
 
 > This site was built using [Visual Studio Code](https://code.visualstudio.com/).
 
-> Visit [Shopping cart](https://carevick.github.io/).
+> Visit [Shopping cart](https://carevick.github.io/) website.
 
