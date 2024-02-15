@@ -1,4 +1,4 @@
-# carevick-shoppingCart.github.io
+# carevick-shoppingCart
 
 ## Shopping cart
 
