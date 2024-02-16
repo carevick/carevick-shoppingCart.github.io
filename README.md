@@ -1,4 +1,4 @@
-# carevick-shoppingCart
+# shopping_cart
 
 ## Shopping cart
 
